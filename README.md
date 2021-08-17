@@ -1,4 +1,4 @@
-I am Rajendra M Panda, Postdoctoral Associate at Mississippi State University. I was a postdoctoral Associate at the University of Georgia, beforehand.
+I am a Postdoctoral Associate at Mississippi State University. I was a postdoctoral Associate at the University of Georgia, beforehand.
 A Ph.D. in Environmental Science with more than ten years of research experience
 Field of research: Ecology, Forestry and Soil Science
 Experience in biodiversity, diversity and distribution studies, invasion risk and climate change impact assessments, ecological modeling, and monitoring. 
