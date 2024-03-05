@@ -1,5 +1,9 @@
-Rajendra is a Senior Researcher with a PhD in Environmental Science from the Indian Institute of Technology Kharagpur and Postdoctoral experience from the University of South Florida, Mississippi State University, University of Georgia. His interdisciplinary research includes Ecology, Forestry, Agriculture, and Remote Sensing. Rajendra's research focuses on biodiversity conservation, ecosystem monitoring, species diversity and distribution, gradient pattern analysis, invasion risk assessments, climate change predictions, spatial-temporal modelling, large-data analytics, machine learning, species distribution modelling, Bayesian modelling, interactive mapping and visualization. He has experience in project management, lab management, and conference/workshop management. He has authored a book on Himalayan Plant Ecology 'Plant Ecology of Indian Himalaya' and published fifteen peer-reviewed journal articles, four book chapters, six GitHub repositories and two Shiny Apps.
-Rajendra has experience in mentoring, evaluating and teaching Masters and PhD students.
+Rajendra is a Senior Researcher in Ecology and its related domains of Forestry, Agriculture, and Remote Sensing. 
+Research interests are in biodiversity monitoring and assessment, species diversity and distribution modelling, spatial-temporal analyses, invasion risk assessments, climate change predictions and R-App/Package Development. 
+A strong background in large-data analytics, machine learning, species distribution modelling, Bayesian modelling, interactive mapping and visualization.
+Authored a book on Himalayan Plant Ecology 'Plant Ecology of Indian Himalaya' and published fifteen peer-reviewed journal articles, four book chapters, six GitHub repositories and two Shiny Apps.
+Expertise in mentoring, evaluating and teaching Masters and PhD students.
 An excellent collaborator and working on multiple projects.
-Software skills: R, ArcGIS, QGIS, MATLAB, STAN, Python (basics)
-Research Interests: Spatiotemporal analyses, Ecological modelling, Climate Change, Bayesian Statistics, Machine Learning, R-Package/App Development
+Experience in project/lab/conference/workshop management.
+Software Proficiency: R and ArcGIS
+Other software: QGIS, MATLAB, STAN, Python
