@@ -2,4 +2,4 @@ Rajendra is a Senior Researcher with a PhD in Environmental Science from the Ind
 Rajendra has experience in mentoring, evaluating and teaching Masters and PhD students.
 An excellent collaborator and working on multiple projects.
 Software skills: R, ArcGIS, QGIS, MATLAB, STAN, Python (basics)
-Research Interests: Spatial-temporal modelling, Climate Change Predictions, Bayesian Statistics, Machine Learning and R-Package/App Development
+Research Interests: Spatiotemporal analyses, Ecological modelling, Climate Change, Bayesian Statistics, Machine Learning, R-Package/App Development
