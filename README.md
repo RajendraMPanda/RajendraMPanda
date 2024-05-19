@@ -1,9 +1,7 @@
 Rajendra is a Senior Researcher in Ecology and its related domains of Forestry, Agriculture, and Remote Sensing. 
-His Research interests include biodiversity monitoring and assessment, species diversity and distribution, spatial-temporal analyses, invasion risk assessments, climate change predictions, ecological modelling and R-App/Package Development. 
-He has a strong background in large-data analytics, machine learning, species distribution modelling, Bayesian statistics, interactive mapping and visualization.
-He has authored a book 'Plant Ecology of Indian Himalaya' and published 15 peer-reviewed journal articles, four book chapters, seven GitHub repositories and two Shiny Apps.
-He has experience in mentoring, evaluating and teaching Masters and PhD students.
-An excellent collaborator and networking.
-Experience in project/lab/conference/workshop management.
-Software Proficiency: R and ArcGIS
-Other software: QGIS, MATLAB, STAN, Python, GEE
+His research interests include biodiversity monitoring and assessment, species distribution modelling, Gradient pattern analysis, spatial-temporal analyses, invasive species risk assessments, climate change predictions, machine learning and algorithm development, and R-App/Package Development. 
+He has a strong technical background in large-data analytics, machine learning applications, species distribution modelling, Hierarchical Bayesian modelling, interactive mapping and visualization.
+He has authored a book and published 15 journal articles, four book chapters, seven GitHub repositories and two Shiny Apps.
+He has skills in mentoring, evaluating and teaching Masters and PhD students.
+He is an excellent collaborator and has experience in project/lab/conference/workshop management.
+Software skills in R, ArcGIS, QGIS, MATLAB, STAN, Python, GEE, Git.
